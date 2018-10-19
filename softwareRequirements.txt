@@ -1,0 +1,38 @@
+Tools
+-Python
+-OpenCV
+-Tensorflow
+
+#######################################
+
+Program General Flow
+-Turn on
+--Start 3 minute timer
+
+-Detect Home Color
+
+-Move to Center
+
+-Make Counterclockwise Rotations
+--Track current quadrant
+--Radiate outward
+
+-Detect Debris
+--Detect color
+--Orient robot
+--Collect
+--Sort internally
+
+-Avoid Obstacles
+--Walls
+--Space Tels
+--Center post
+--Other robots
+
+-Deposit debris
+
+-Go home
+
+-Raise Flag
+
+#########################################
